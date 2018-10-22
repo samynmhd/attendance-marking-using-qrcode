@@ -12,9 +12,12 @@ All the modules has to be installed before the application can be used.
 
 Click on the Backend folder and install all the moduels using npm install.
 Next do the same for the client folder.
-
+`````````````````````````````````````
 To run the backend npm start bin/www.
+`````````````````````````````````````
+`````````````````````````````````````
 To run the clien side npm start.
+`````````````````````````````````````
 
 For the database(MongoDB), you can create a database link using MLAB and connect to the cloud or use local database.
 

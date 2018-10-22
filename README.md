@@ -28,7 +28,9 @@ To try the live version you can deploy the system to Heroku.
 
 * [ExpressJS](https://expressjs.com/) - The web framework used
 * [NPM](https://www.npmjs.com/) - Dependency Management
-* [Passport](http://www.passportjs.org/) - Used for security features 
+* [Passport](http://www.passportjs.org/) - Used for security features
+* [NodeJs](https://nodejs.org/en/) - For the backend server.
+* [VueJs](http://wwhttps://vuejs.org/) - For the frontend server.
 
 ## License
 

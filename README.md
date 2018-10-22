@@ -10,7 +10,7 @@ The intial project was coded fully in NodeJs. I didn't give much thought on the 
 
 Wrote all the important functionalites and used [POSTMAN](https://www.getpostman.com/) to test if the functionalities were working perfectly. Eveything was positive.
 
-Creating the frontend part within the backend was fairly easy, but i rain into problems. Getting data from the default view engine in NodeJs was easy. Problem arised when it came to displaying data to the view engine. It became hectic and codes were getting messy. Some of the data could not be displayed as i have planned. 
+Creating the frontend part within the backend was fairly easy, but i ran into problems. Getting data from the default view engine in NodeJs was easy. Problem arised when it came to displaying data to the view engine. It became hectic and codes were getting messy. Some of the data could not be displayed as i have planned. 
 
 So i had to find another method to display the data. Came across VueJs, it totally captured my attention. Taught myself VueJs enough to make the project possible.
 
@@ -31,9 +31,38 @@ To eliminate false attendance, a single QRCode can be scanned multiple times usi
 
 ![](https://media.giphy.com/media/1xkufRJ16wyov1o5yZ/giphy.gif)
 
-Securing the QRCode was the important any other part in the project. As students have become smart, they could have used the previous code and manipulate the data in it and mark attendance for classes they did not attend. A little bit research gave me an idea to encrypt the code. So each generated QRCode is encrypted thus manipulating the QRCode won't do any harm.
+Securing the QRCode was the important than any other part in the project. As students have become smart, they could have used the previous code and manipulate the data in it and mark attendance for classes they did not attend. A little bit research gave me an idea to encrypt the code. So each generated QRCode is encrypted thus manipulating the QRCode won't do any harm.
 
 ![](https://media.giphy.com/media/IxAJUqo5znhwA/giphy.gif)
+
+### Workflow of the system
+
+There are three modules in application.
+- Admin
+- Lecturer
+- Student
+
+The admin user has to be created by the Developer.
+
+Lecturer registeration will be done under the admin, admin will email a link to the lecturer where the lecturer can register for the application.
+
+Students have to browse the link and register them through the registration page provided. After the registration, student has to login to the system with the student ID and the password provided at registration. Next student has to select the subjects for the semester the student registered for. 
+
+Side track for a moment, those subjects that are shown to the students will be added by the admin. Admin will add subjects semester wise and course wise. These subjects will be displayed to the student in their profile. 
+
+The student will only be able to scan the code and mark attendance only after the student has registered and selected the subjects for the semester.
+
+After the student scans the code and marks the attendance, the attended classes will be dsiplayed in the student dashboard.
+
+For displaying the QRCode. Lecturer has to select the subject, an indentifier to distinguish between batches. Generate and display the code to the students. Students have to use a smart device to scan code and mark the attendance.
+
+Lecturer later on can view the students who attended the class and who did not. Lecturer even can print the attendance sheet. 
+
+It was a challenging project, the encouragement from lecturers and friends helped me a lot to complete this project. It became a successful project when my examiner gave me a smile and said "You should change some layouts in here and there". I took it as a positive outcome as all the functionalites worked perfectly and i managed to achieve all the objectives. 
+
+
+![](https://media.giphy.com/media/13B3a2WWKcEo9O/giphy.gif)
+
 
 
 ## Getting Started

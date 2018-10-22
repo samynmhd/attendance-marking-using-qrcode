@@ -28,9 +28,11 @@ The biggest concern for me to achieve my objectives.
 ![](https://media.giphy.com/media/TPl5N4Ci49ZQY/giphy.gif)
 
 To eliminate false attendance, a single QRCode can be scanned multiple times using a smart device, but it can only log data to the database once per QRCode. Local ip of the device will be saved to the database when the code is scanned. So if the same code is scanned again, an error or more like a warning will be displayed. 
-![](https://media.giphy.com/media/ZThQqlxY5BXMc/giphy.gif)
+
+![](https://media.giphy.com/media/1xkufRJ16wyov1o5yZ/giphy.gif)
 
 Securing the QRCode was the important any other part in the project. As students have become smart, they could have used the previous code and manipulate the data in it and mark attendance for classes they did not attend. A little bit research gave me an idea to encrypt the code. So each generated QRCode is encrypted thus manipulating the QRCode won't do any harm.
+
 ![](https://media.giphy.com/media/IxAJUqo5znhwA/giphy.gif)
 
 

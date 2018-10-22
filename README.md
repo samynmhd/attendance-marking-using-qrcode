@@ -6,12 +6,15 @@ A project that i created for my finlay year. Using QRCode as a medium to mark at
 
 Clone the repo.
 There will be two folders inside. Backend and Client.
+
 All the modules has to be installed before the application can be used.
 
 ### Installing and running
 
 Click on the Backend folder and install all the moduels using npm install.
+
 Next do the same for the client folder.
+
 `````````````````````````````````````
 To run the backend npm start bin/www.
 `````````````````````````````````````
@@ -20,6 +23,7 @@ To run the client side npm serve.
 `````````````````````````````````````
 
 For the database(MongoDB), you can create a database link using MLAB and connect to the cloud or use local database.
+
 Adjust the enivronment variables according to your system, so that frontend can communicate with the backend.
 
 

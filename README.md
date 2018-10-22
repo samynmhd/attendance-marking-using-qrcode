@@ -1,6 +1,6 @@
 # Attendance Marking using QRCode
 
-A project that i created for my finlay year project. Using QRCode as a medium to mark attendance of a classroom.
+A project that i created for my finlay year. Using QRCode as a medium to mark attendance of a classroom. Students use their smart devices to scan the QRCode and mark their precense.
 
 ## Getting Started
 

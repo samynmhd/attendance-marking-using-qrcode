@@ -2,6 +2,12 @@
 
 A project that i created for my finlay year. Using QRCode as a medium to mark attendance of a classroom. Students use their smart devices to scan the QRCode and mark their precense.
 
+There were few hickups while coding the application.
+
+The intial project was coded fully in NodeJs. I didn't give much thought on the frontend when i started the project. It was all about testing if it was possible to create such a system. 
+
+https://giphy.com/gifs/h7CrjtmsLtqxi/html5
+
 ## Getting Started
 
 Clone the repo.

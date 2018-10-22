@@ -20,6 +20,7 @@ To run the clien side npm start.
 `````````````````````````````````````
 
 For the database(MongoDB), you can create a database link using MLAB and connect to the cloud or use local database.
+Adjust the enivronment variables according to your system, so that frontend can communicate with the backend.
 
 
 ## Deployment

@@ -16,7 +16,7 @@ Next do the same for the client folder.
 To run the backend npm start bin/www.
 `````````````````````````````````````
 `````````````````````````````````````
-To run the clien side npm start.
+To run the client side npm start.
 `````````````````````````````````````
 
 For the database(MongoDB), you can create a database link using MLAB and connect to the cloud or use local database.

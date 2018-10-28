@@ -1,6 +1,6 @@
 # Attendance Marking using QRCode
 
-A project that i created for my finlay year. Using QRCode as a medium to mark attendance of a classroom. Students use their smart devices to scan the QRCode and mark their precense.
+A project that i created for my final year. Using QRCode as a medium to mark attendance of a classroom. Students use their smart devices to scan the QRCode and mark their precense.
 
 There were few hickups while coding the application.
 
@@ -16,7 +16,7 @@ So i had to find another method to display the data. Came across VueJs, it total
 
 ![](https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif)
 
-As there was not a single lecturer in my Uni who knew NodeJS, VueJS and MongoDB. Totally one and half months it took for me to take a grasp on the workflow. 
+Knowledge of NodeJs, VueJs and mongoDB was very limited to my lecturers. Duration of one and half month it took for me to take a grasp on the workflow. 
 
 So, frontend was done. I was able to display the data as i wanted. Vue is so easily customizable and fairly easy to work with. Sending and retrieving data was so easy.
 

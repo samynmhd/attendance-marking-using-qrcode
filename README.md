@@ -89,12 +89,6 @@ For the database(MongoDB), you can create a database link using MLAB and connect
 
 Adjust the enivronment variables according to your system, so that frontend can communicate with the backend.
 
-
-## Deployment
-
-To try the live version you can deploy the system to Heroku. 
-* [Heroku](https://www.heroku.com)
-
 ## Built With
 
 * [ExpressJS](https://expressjs.com/) - The web framework used
